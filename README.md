@@ -10,9 +10,9 @@ The goal of the project is to demonstrate **data cleaning**, **analysis**, and *
 
 ## 📂 Dataset
 The dataset contains historical superstore sales data in 4 sheets:
-- **Order**
-- **Customer**
-- **Manager/User**
+- **Orders**
+- **CustomerName**
+- **Managers/Users**
 - **Returns**
 
 ---
