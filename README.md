@@ -46,8 +46,8 @@ The dashboard provides the following key insights:
 ---
 
 ## 📷 Dashboard Preview
-![Superstore Dashboard](<img width="995" height="671" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/5a095039-9f6b-4055-9418-4a9ffebd1f1e" />
-)
+<img width="995" height="671" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/e618e6d6-9486-4eb3-bec9-0ed9a538173d" />
+
 
 ---
 
